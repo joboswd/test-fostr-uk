@@ -1,1 +1,49 @@
-Deploy complete @ Thu Feb 28 2019 16:48:31 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.scss.liquid.
+Deploy complete @ Thu Feb 28 2019 21:05:12 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 21:22:32 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 21:24:41 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 21:26:57 GMT+0800 (Malay Peninsula Standard Time). added/changed 2 file(s): assets\theme.js, assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 21:27:51 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 21:29:03 GMT+0800 (Malay Peninsula Standard Time). added/changed 2 file(s): assets\theme.js, assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 21:31:19 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): layout\theme.liquid.
+Deploy complete @ Thu Feb 28 2019 21:32:59 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): layout\theme.liquid.
+Deploy complete @ Thu Feb 28 2019 21:33:05 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): layout\theme.liquid.
+Deploy complete @ Thu Feb 28 2019 21:33:30 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 21:41:42 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy error @ Thu Feb 28 2019 21:42:19 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+21:42:16 [development]Asset Perform Update to sections/product-template.liquid at host test-fostr-uk.myshopify.com
+	Status: 422 Unprocessable Entity
+	Errors: Liquid syntax error (line 146): in 'form' - Valid syntax: form 'type'[, object]
+ 
+Deploy complete @ Thu Feb 28 2019 21:45:46 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 21:50:51 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 21:54:05 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 22:06:02 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 22:06:46 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 22:06:53 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 22:07:49 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 22:16:51 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\product-template.liquid.
+Deploy complete @ Thu Feb 28 2019 22:22:22 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:26:48 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:26:55 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:27:41 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:27:49 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:30:15 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:34:16 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:34:24 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:39:27 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\header.liquid.
+Deploy complete @ Thu Feb 28 2019 22:40:41 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\header.liquid.
+Deploy complete @ Thu Feb 28 2019 22:40:47 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\header.liquid.
+Deploy complete @ Thu Feb 28 2019 22:41:15 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:41:34 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:43:36 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:44:16 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\header.liquid.
+Deploy complete @ Thu Feb 28 2019 22:55:14 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:55:23 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 22:56:48 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 23:06:34 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 23:06:42 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 23:07:17 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 23:10:00 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 23:12:11 GMT+0800 (Malay Peninsula Standard Time). added/changed 2 file(s): assets\theme.js, assets\theme.js.
+Deploy complete @ Thu Feb 28 2019 23:12:59 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): sections\header.liquid.
+Deploy complete @ Thu Feb 28 2019 23:14:05 GMT+0800 (Malay Peninsula Standard Time). added/changed 1 file(s): assets\theme.js.
